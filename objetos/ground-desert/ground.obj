@@ -1,0 +1,24 @@
+# Simple 5x5 Ground Plane
+mtllib ground.mtl
+o Floor
+
+# 4 corners (5x5)
+v -2.500000 0.000000 2.500000
+v 2.500000 0.000000 2.500000
+v -2.500000 0.000000 -2.500000
+v 2.500000 0.000000 -2.500000
+
+# UV Coordinates 
+vt 0.000000 0.000000
+vt 1.000000 0.000000
+vt 0.000000 1.000000
+vt 1.000000 1.000000
+
+# The Normal (straight up)
+vn 0.000000 1.000000 0.000000
+
+usemtl floor
+s off
+# The 2 Triangles that make the square
+f 3/3/1 4/4/1 2/2/1
+f 3/3/1 2/2/1 1/1/1
