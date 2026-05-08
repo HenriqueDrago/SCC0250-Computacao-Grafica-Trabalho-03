@@ -49,4 +49,4 @@ def generate_grid(json_path, base_name, center_name, offset_x, offset_z, n):
         json.dump(clean_scene, f, indent=4)
 
 # run
-generate_grid(json_path="chao.json", base_name="Chao", center_name="Chao_Central", offset_x=5.0, offset_z=5.0, n=10)
+generate_grid(json_path="storage/chao.json", base_name="Chao", center_name="Chao_Central", offset_x=5.0, offset_z=5.0, n=10)

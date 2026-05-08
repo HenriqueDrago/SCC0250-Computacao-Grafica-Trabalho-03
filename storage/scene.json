@@ -4,7 +4,6 @@
         "obj_file": "objetos/bus_stop/bus_stop.obj",
         "texture_file": null,
         "mtl_texture_overrides": {},
-        "angulo_obj": 0.0,
         "translacao": [
             5.5,
             -2.5,
@@ -20,11 +19,8 @@
             0.0,
             90.0
         ],
-        "id_textura": 4,
-        "obj_id": 4,
         "visible": true,
         "polygon": false,
-        "scene_id": 4,
         "scene_file": "scene.json"
     },
     {
@@ -36,7 +32,6 @@
             "bus": "objetos/onibus/textures/bus_BaseColor.png",
             "glass": "objetos/onibus/textures/glass_op.png"
         },
-        "angulo_obj": 0.0,
         "translacao": [
             7.121396259429998,
             -2.5,
@@ -52,11 +47,8 @@
             -90,
             0.0
         ],
-        "id_textura": 6,
-        "obj_id": 6,
         "visible": true,
         "polygon": false,
-        "scene_id": 6,
         "scene_file": "scene.json"
     },
     {
@@ -64,7 +56,6 @@
         "obj_file": "objetos/oven/10122_Microwave_Oven_v1_L3.obj",
         "texture_file": null,
         "mtl_texture_overrides": {},
-        "angulo_obj": 0.0,
         "translacao": [
             5.659999999999997,
             -0.7199999999999998,
@@ -80,11 +71,8 @@
             180.0,
             -2.0
         ],
-        "id_textura": 7,
-        "obj_id": 7,
         "visible": true,
         "polygon": false,
-        "scene_id": 7,
         "scene_file": "scene.json"
     },
     {
@@ -92,7 +80,6 @@
         "obj_file": "objetos/gnome/garden_gnome_4k.obj",
         "texture_file": null,
         "mtl_texture_overrides": {},
-        "angulo_obj": 0.0,
         "translacao": [
             6.0,
             -2.0,
@@ -108,11 +95,8 @@
             -27.0,
             0.0
         ],
-        "id_textura": 8,
-        "obj_id": 8,
         "visible": true,
         "polygon": false,
-        "scene_id": 8,
         "scene_file": "scene.json"
     },
     {
@@ -123,7 +107,6 @@
             "potted_plant_02_leaves": "objetos/vaso_de_planta/textures/potted_plant_02_leaves_diff_4k.png",
             "potted_plant_02_pot": "objetos/vaso_de_planta/textures/potted_plant_02_pot_diff_4k.png"
         },
-        "angulo_obj": 0.0,
         "translacao": [
             -1.640000000000003,
             -1.94,
@@ -139,11 +122,8 @@
             0.0,
             0.0
         ],
-        "id_textura": 9,
-        "obj_id": 9,
         "visible": true,
         "polygon": false,
-        "scene_id": 9,
         "scene_file": "scene.json"
     },
     {
@@ -153,7 +133,6 @@
         "mtl_texture_overrides": {
             "rubber_duck_toy": "objetos/pato/textures/rubber_duck_toy_diff_4k.jpg"
         },
-        "angulo_obj": 0.0,
         "translacao": [
             4.799999999999999,
             -2.0199999999999996,
@@ -169,11 +148,8 @@
             28.0,
             0.0
         ],
-        "id_textura": 10,
-        "obj_id": 10,
         "visible": true,
         "polygon": false,
-        "scene_id": 10,
         "scene_file": "scene.json"
     },
     {
@@ -181,7 +157,6 @@
         "obj_file": "objetos/stove/stove.obj",
         "texture_file": null,
         "mtl_texture_overrides": {},
-        "angulo_obj": 0.0,
         "translacao": [
             4.5,
             -2.0,
@@ -197,11 +172,8 @@
             -0.5,
             -179.5
         ],
-        "id_textura": 11,
-        "obj_id": 11,
         "visible": true,
         "polygon": false,
-        "scene_id": 11,
         "scene_file": "scene.json"
     },
     {
@@ -213,7 +185,6 @@
             "Cores": "objetos/spinner/middle.jpg",
             "Shell": "objetos/spinner/color.jpg"
         },
-        "angulo_obj": 0.0,
         "translacao": [
             5.2400000000000055,
             -1.95,
@@ -229,11 +200,8 @@
             -90.0,
             0.0
         ],
-        "id_textura": 12,
-        "obj_id": 12,
         "visible": true,
         "polygon": false,
-        "scene_id": 12,
         "scene_file": "scene.json"
     },
     {
@@ -243,7 +211,6 @@
         "mtl_texture_overrides": {
             "sofa_02": "objetos/sofa/textures/sofa_02_diff_4k.jpg"
         },
-        "angulo_obj": 0.0,
         "translacao": [
             0.20000000000000004,
             -2.0,
@@ -259,11 +226,8 @@
             182.5,
             0.0
         ],
-        "id_textura": 697,
-        "obj_id": 697,
         "visible": true,
         "polygon": false,
-        "scene_id": 697,
         "scene_file": "scene.json"
     },
     {
@@ -273,7 +237,6 @@
         "mtl_texture_overrides": {
             "GothicBed_01": "objetos/cama/textures/GothicBed_01_diff_4k.jpg"
         },
-        "angulo_obj": 0.0,
         "translacao": [
             -4.809999999999993,
             -1.9300000000000004,
@@ -289,11 +252,8 @@
             360.0,
             0.0
         ],
-        "id_textura": 698,
-        "obj_id": 698,
         "visible": true,
         "polygon": false,
-        "scene_id": 698,
         "scene_file": "scene.json"
     },
     {
@@ -303,7 +263,6 @@
         "mtl_texture_overrides": {
             "gothic_coffee_table": "objetos/mesa/textures/gothic_coffee_table_diff_4k.jpg"
         },
-        "angulo_obj": 0.0,
         "translacao": [
             3.0,
             -1.9700000000000004,
@@ -319,11 +278,8 @@
             0.0,
             0.0
         ],
-        "id_textura": 699,
-        "obj_id": 699,
         "visible": true,
         "polygon": false,
-        "scene_id": 699,
         "scene_file": "scene.json"
     },
     {
@@ -331,7 +287,6 @@
         "obj_file": "objetos/dead_trees/DeadTree1.obj",
         "texture_file": null,
         "mtl_texture_overrides": {},
-        "angulo_obj": 0.0,
         "translacao": [
             -8.0,
             -3.0,
@@ -347,11 +302,8 @@
             0.0,
             0.0
         ],
-        "id_textura": 516,
-        "obj_id": 516,
         "visible": true,
         "polygon": false,
-        "scene_id": 516,
         "scene_file": "scene.json"
     },
     {
@@ -359,7 +311,6 @@
         "obj_file": "objetos/dead_trees/DeadTree11.obj",
         "texture_file": null,
         "mtl_texture_overrides": {},
-        "angulo_obj": 0.0,
         "translacao": [
             2.0,
             -2.5,
@@ -375,11 +326,8 @@
             0.0,
             0.0
         ],
-        "id_textura": 517,
-        "obj_id": 517,
         "visible": true,
         "polygon": false,
-        "scene_id": 517,
         "scene_file": "scene.json"
     },
     {
@@ -387,7 +335,6 @@
         "obj_file": "objetos/dead_trees/DeadTree21.obj",
         "texture_file": null,
         "mtl_texture_overrides": {},
-        "angulo_obj": 0.0,
         "translacao": [
             9.6,
             -2.5,
@@ -403,11 +350,8 @@
             0.0,
             0.0
         ],
-        "id_textura": 518,
-        "obj_id": 518,
         "visible": true,
         "polygon": false,
-        "scene_id": 518,
         "scene_file": "scene.json"
     },
     {
@@ -417,7 +361,6 @@
         "mtl_texture_overrides": {
             "round_wooden_table_02": "objetos/bed_table/textures/round_wooden_table_02_diff_4k.jpg"
         },
-        "angulo_obj": 0.0,
         "translacao": [
             -3.529999999999995,
             -2.0,
@@ -433,11 +376,8 @@
             0.0,
             0.0
         ],
-        "id_textura": 498,
-        "obj_id": 498,
         "visible": true,
         "polygon": false,
-        "scene_id": 498,
         "scene_file": "scene.json"
     },
     {
@@ -445,7 +385,6 @@
         "obj_file": "objetos/clock/clock.obj",
         "texture_file": null,
         "mtl_texture_overrides": {},
-        "angulo_obj": 0.0,
         "translacao": [
             -3.5199999999999965,
             -1.26,
@@ -461,11 +400,8 @@
             -33.0,
             0.0
         ],
-        "id_textura": 498,
-        "obj_id": 498,
         "visible": true,
         "polygon": false,
-        "scene_id": 498,
         "scene_file": "scene.json"
     },
     {
@@ -475,7 +411,6 @@
         "mtl_texture_overrides": {
             "painted_wooden_cabinet": "objetos/kitchen_table/textures/painted_wooden_cabinet_diff_4k.jpg"
         },
-        "angulo_obj": 0.0,
         "translacao": [
             5.7199999999999935,
             -1.9000000000000004,
@@ -491,11 +426,8 @@
             181.0,
             0.0
         ],
-        "id_textura": 499,
-        "obj_id": 499,
         "visible": true,
         "polygon": false,
-        "scene_id": 499,
         "scene_file": "scene.json"
     },
     {
@@ -505,7 +437,6 @@
         "mtl_texture_overrides": {
             "wire_000000000": "objetos/carpet/Textures/dirty_carpet_diff_4k.jpg"
         },
-        "angulo_obj": 0.0,
         "translacao": [
             -0.7,
             -1.8200000000000003,
@@ -521,11 +452,8 @@
             0.0,
             -88.0
         ],
-        "id_textura": 500,
-        "obj_id": 500,
         "visible": true,
         "polygon": false,
-        "scene_id": 500,
         "scene_file": "scene.json"
     },
     {
@@ -535,7 +463,6 @@
         "mtl_texture_overrides": {
             "piso_1": "objetos/cottage/FloorsMarble0020_2_S.jpg"
         },
-        "angulo_obj": 0.0,
         "translacao": [
             0.0,
             -2.5,
@@ -551,11 +478,8 @@
             0.0,
             0.0
         ],
-        "id_textura": 501,
-        "obj_id": 501,
         "visible": true,
         "polygon": false,
-        "scene_id": 501,
         "scene_file": "scene.json"
     },
     {
@@ -563,7 +487,6 @@
         "obj_file": "objetos/cacamba/Low Poly Stylized Industrial Dumpster.obj",
         "texture_file": null,
         "mtl_texture_overrides": {},
-        "angulo_obj": 0.0,
         "translacao": [
             7.0299999999998946,
             -1.750000000000001,
@@ -579,11 +502,8 @@
             0.0,
             0.0
         ],
-        "id_textura": 501,
-        "obj_id": 501,
         "visible": true,
         "polygon": false,
-        "scene_id": 501,
         "scene_file": "scene.json"
     },
     {
@@ -594,7 +514,6 @@
             "Material": "objetos/wood-wall/textures/dark_wood_diff_4k.jpg",
             "Material.001": "objetos/wood-wall/textures/dark_wood_diff_4k.jpg"
         },
-        "angulo_obj": 0.0,
         "translacao": [
             -0.09999999999999999,
             0.9700000000000002,
@@ -610,11 +529,8 @@
             90.0,
             0.0
         ],
-        "id_textura": 502,
-        "obj_id": 502,
         "visible": true,
         "polygon": false,
-        "scene_id": 502,
         "scene_file": "scene.json"
     }
 ]

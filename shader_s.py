@@ -5,8 +5,8 @@ class Shader:
         # 1. retrieve the vertex/fragment source code from filePath
         try:
             # open files
-            vShaderFile = open(vertexPath)
-            fShaderFile = open(fragmentPath)
+            vShaderFile = open(f"shaders/{vertexPath}")
+            fShaderFile = open(f"shaders/{fragmentPath}")
             
             # read file's buffer contents into strings
             vertexCode = vShaderFile.read()

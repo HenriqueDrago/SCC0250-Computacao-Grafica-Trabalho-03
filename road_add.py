@@ -43,4 +43,4 @@ def expand_roads(json_path, n):
         json.dump(clean_scene, f, indent=4)
 
 # run
-expand_roads("road.json", n=20)
+expand_roads("storage/road.json", n=20)
