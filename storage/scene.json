@@ -21,7 +21,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Onibus",
@@ -49,7 +55,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "oven",
@@ -73,7 +85,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "gnome",
@@ -97,7 +115,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "vaso_de_planta",
@@ -124,7 +148,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "pato",
@@ -150,7 +180,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "stove",
@@ -174,7 +210,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "spinner",
@@ -202,7 +244,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "sofa",
@@ -228,7 +276,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "cama",
@@ -254,7 +308,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "mesa",
@@ -280,7 +340,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "DeadTree01",
@@ -304,7 +370,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "DeadTree02",
@@ -328,7 +400,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "DeadTree03",
@@ -352,7 +430,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "bed_table",
@@ -378,7 +462,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "clock",
@@ -402,7 +492,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "kitchen_table",
@@ -428,7 +524,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "carpet",
@@ -454,7 +556,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "cottage",
@@ -480,7 +588,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "cacamba de lixo",
@@ -504,7 +618,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Parede_Madeira",
@@ -531,6 +651,12 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json"
+        "scene_file": "scene.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     }
 ]

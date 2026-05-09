@@ -21,7 +21,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E01",
@@ -45,7 +51,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D01",
@@ -69,7 +81,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E02",
@@ -93,7 +111,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D02",
@@ -117,7 +141,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E03",
@@ -141,7 +171,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D03",
@@ -165,7 +201,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E04",
@@ -189,7 +231,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D04",
@@ -213,7 +261,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E05",
@@ -237,7 +291,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D05",
@@ -261,7 +321,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E06",
@@ -285,7 +351,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D06",
@@ -309,7 +381,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E07",
@@ -333,7 +411,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D07",
@@ -357,7 +441,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E08",
@@ -381,7 +471,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D08",
@@ -405,7 +501,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E09",
@@ -429,7 +531,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D09",
@@ -453,7 +561,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E10",
@@ -477,7 +591,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D10",
@@ -501,7 +621,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E11",
@@ -525,7 +651,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D11",
@@ -549,7 +681,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E12",
@@ -573,7 +711,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D12",
@@ -597,7 +741,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E13",
@@ -621,7 +771,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D13",
@@ -645,7 +801,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E14",
@@ -669,7 +831,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D14",
@@ -693,7 +861,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E15",
@@ -717,7 +891,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D15",
@@ -741,7 +921,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E16",
@@ -765,7 +951,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D16",
@@ -789,7 +981,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E17",
@@ -813,7 +1011,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D17",
@@ -837,7 +1041,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E18",
@@ -861,7 +1071,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D18",
@@ -885,7 +1101,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E19",
@@ -909,7 +1131,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D19",
@@ -933,7 +1161,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_E20",
@@ -957,7 +1191,13 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     },
     {
         "name": "Estrada_D20",
@@ -981,6 +1221,12 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "road.json"
+        "scene_file": "road.json",
+        "illum_specs": {
+            "ka": 0.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 0.0
+        }
     }
 ]

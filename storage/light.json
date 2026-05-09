@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Test_light",
+        "pos": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "color": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "active": true,
+        "ambient": "internal"
+    }
+]
