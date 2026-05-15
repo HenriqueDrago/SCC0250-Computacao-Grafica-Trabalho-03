@@ -23,11 +23,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z-9",
@@ -53,11 +54,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z-8",
@@ -83,11 +85,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z-7",
@@ -113,11 +116,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z-6",
@@ -143,11 +147,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z-5",
@@ -173,11 +178,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z-4",
@@ -203,11 +209,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z-3",
@@ -233,11 +240,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z-2",
@@ -263,11 +271,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z-1",
@@ -293,11 +302,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z0",
@@ -323,11 +333,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z1",
@@ -353,11 +364,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z2",
@@ -383,11 +395,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z3",
@@ -413,11 +426,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z4",
@@ -443,11 +457,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z5",
@@ -473,11 +488,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z6",
@@ -503,11 +519,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z7",
@@ -533,11 +550,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z8",
@@ -563,11 +581,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z9",
@@ -593,11 +612,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-10_Z10",
@@ -623,11 +643,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z-10",
@@ -653,11 +674,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z-9",
@@ -683,11 +705,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z-8",
@@ -713,11 +736,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z-7",
@@ -743,11 +767,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z-6",
@@ -773,11 +798,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z-5",
@@ -803,11 +829,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z-4",
@@ -833,11 +860,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z-3",
@@ -863,11 +891,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z-2",
@@ -893,11 +922,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z-1",
@@ -923,11 +953,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z0",
@@ -953,11 +984,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z1",
@@ -983,11 +1015,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z2",
@@ -1013,11 +1046,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z3",
@@ -1043,11 +1077,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z4",
@@ -1073,11 +1108,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z5",
@@ -1103,11 +1139,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z6",
@@ -1133,11 +1170,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z7",
@@ -1163,11 +1201,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z8",
@@ -1193,11 +1232,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z9",
@@ -1223,11 +1263,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-9_Z10",
@@ -1253,11 +1294,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z-10",
@@ -1283,11 +1325,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z-9",
@@ -1313,11 +1356,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z-8",
@@ -1343,11 +1387,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z-7",
@@ -1373,11 +1418,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z-6",
@@ -1403,11 +1449,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z-5",
@@ -1433,11 +1480,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z-4",
@@ -1463,11 +1511,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z-3",
@@ -1493,11 +1542,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z-2",
@@ -1523,11 +1573,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z-1",
@@ -1553,11 +1604,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z0",
@@ -1583,11 +1635,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z1",
@@ -1613,11 +1666,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z2",
@@ -1643,11 +1697,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z3",
@@ -1673,11 +1728,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z4",
@@ -1703,11 +1759,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z5",
@@ -1733,11 +1790,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z6",
@@ -1763,11 +1821,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z7",
@@ -1793,11 +1852,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z8",
@@ -1823,11 +1883,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z9",
@@ -1853,11 +1914,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-8_Z10",
@@ -1883,11 +1945,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z-10",
@@ -1913,11 +1976,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z-9",
@@ -1943,11 +2007,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z-8",
@@ -1973,11 +2038,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z-7",
@@ -2003,11 +2069,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z-6",
@@ -2033,11 +2100,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z-5",
@@ -2063,11 +2131,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z-4",
@@ -2093,11 +2162,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z-3",
@@ -2123,11 +2193,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z-2",
@@ -2153,11 +2224,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z-1",
@@ -2183,11 +2255,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z0",
@@ -2213,11 +2286,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z1",
@@ -2243,11 +2317,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z2",
@@ -2273,11 +2348,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z3",
@@ -2303,11 +2379,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z4",
@@ -2333,11 +2410,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z5",
@@ -2363,11 +2441,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z6",
@@ -2393,11 +2472,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z7",
@@ -2423,11 +2503,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z8",
@@ -2453,11 +2534,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z9",
@@ -2483,11 +2565,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-7_Z10",
@@ -2513,11 +2596,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z-10",
@@ -2543,11 +2627,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z-9",
@@ -2573,11 +2658,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z-8",
@@ -2603,11 +2689,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z-7",
@@ -2633,11 +2720,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z-6",
@@ -2663,11 +2751,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z-5",
@@ -2693,11 +2782,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z-4",
@@ -2723,11 +2813,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z-3",
@@ -2753,11 +2844,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z-2",
@@ -2783,11 +2875,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z-1",
@@ -2813,11 +2906,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z0",
@@ -2843,11 +2937,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z1",
@@ -2873,11 +2968,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z2",
@@ -2903,11 +2999,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z3",
@@ -2933,11 +3030,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z4",
@@ -2963,11 +3061,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z5",
@@ -2993,11 +3092,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z6",
@@ -3023,11 +3123,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z7",
@@ -3053,11 +3154,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z8",
@@ -3083,11 +3185,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z9",
@@ -3113,11 +3216,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-6_Z10",
@@ -3143,11 +3247,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z-10",
@@ -3173,11 +3278,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z-9",
@@ -3203,11 +3309,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z-8",
@@ -3233,11 +3340,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z-7",
@@ -3263,11 +3371,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z-6",
@@ -3293,11 +3402,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z-5",
@@ -3323,11 +3433,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z-4",
@@ -3353,11 +3464,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z-3",
@@ -3383,11 +3495,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z-2",
@@ -3413,11 +3526,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z-1",
@@ -3443,11 +3557,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z0",
@@ -3473,11 +3588,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z1",
@@ -3503,11 +3619,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z2",
@@ -3533,11 +3650,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z3",
@@ -3563,11 +3681,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z4",
@@ -3593,11 +3712,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z5",
@@ -3623,11 +3743,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z6",
@@ -3653,11 +3774,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z7",
@@ -3683,11 +3805,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z8",
@@ -3713,11 +3836,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z9",
@@ -3743,11 +3867,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-5_Z10",
@@ -3773,11 +3898,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z-10",
@@ -3803,11 +3929,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z-9",
@@ -3833,11 +3960,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z-8",
@@ -3863,11 +3991,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z-7",
@@ -3893,11 +4022,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z-6",
@@ -3923,11 +4053,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z-5",
@@ -3953,11 +4084,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z-4",
@@ -3983,11 +4115,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z-3",
@@ -4013,11 +4146,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z-2",
@@ -4043,11 +4177,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z-1",
@@ -4073,11 +4208,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z0",
@@ -4103,11 +4239,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z1",
@@ -4133,11 +4270,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z2",
@@ -4163,11 +4301,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z3",
@@ -4193,11 +4332,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z4",
@@ -4223,11 +4363,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z5",
@@ -4253,11 +4394,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z6",
@@ -4283,11 +4425,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z7",
@@ -4313,11 +4456,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z8",
@@ -4343,11 +4487,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z9",
@@ -4373,11 +4518,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-4_Z10",
@@ -4403,11 +4549,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z-10",
@@ -4433,11 +4580,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z-9",
@@ -4463,11 +4611,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z-8",
@@ -4493,11 +4642,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z-7",
@@ -4523,11 +4673,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z-6",
@@ -4553,11 +4704,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z-5",
@@ -4583,11 +4735,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z-4",
@@ -4613,11 +4766,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z-3",
@@ -4643,11 +4797,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z-2",
@@ -4673,11 +4828,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z-1",
@@ -4703,11 +4859,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z0",
@@ -4733,11 +4890,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z1",
@@ -4763,11 +4921,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z2",
@@ -4793,11 +4952,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z3",
@@ -4823,11 +4983,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z4",
@@ -4853,11 +5014,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z5",
@@ -4883,11 +5045,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z6",
@@ -4913,11 +5076,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z7",
@@ -4943,11 +5107,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z8",
@@ -4973,11 +5138,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z9",
@@ -5003,11 +5169,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-3_Z10",
@@ -5033,11 +5200,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z-10",
@@ -5063,11 +5231,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z-9",
@@ -5093,11 +5262,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z-8",
@@ -5123,11 +5293,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z-7",
@@ -5153,11 +5324,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z-6",
@@ -5183,11 +5355,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z-5",
@@ -5213,11 +5386,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z-4",
@@ -5243,11 +5417,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z-3",
@@ -5273,11 +5448,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z-2",
@@ -5303,11 +5479,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z-1",
@@ -5333,11 +5510,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z0",
@@ -5363,11 +5541,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z1",
@@ -5393,11 +5572,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z2",
@@ -5423,11 +5603,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z3",
@@ -5453,11 +5634,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z4",
@@ -5483,11 +5665,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z5",
@@ -5513,11 +5696,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z6",
@@ -5543,11 +5727,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z7",
@@ -5573,11 +5758,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z8",
@@ -5603,11 +5789,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z9",
@@ -5633,11 +5820,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-2_Z10",
@@ -5663,11 +5851,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z-10",
@@ -5693,11 +5882,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z-9",
@@ -5723,11 +5913,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z-8",
@@ -5753,11 +5944,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z-7",
@@ -5783,11 +5975,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z-6",
@@ -5813,11 +6006,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z-5",
@@ -5843,11 +6037,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z-4",
@@ -5873,11 +6068,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z-3",
@@ -5903,11 +6099,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z-2",
@@ -5933,11 +6130,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z-1",
@@ -5963,11 +6161,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z0",
@@ -5993,11 +6192,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z1",
@@ -6023,11 +6223,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z2",
@@ -6053,11 +6254,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z3",
@@ -6083,11 +6285,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z4",
@@ -6113,11 +6316,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z5",
@@ -6143,11 +6347,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z6",
@@ -6173,11 +6378,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z7",
@@ -6203,11 +6409,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z8",
@@ -6233,11 +6440,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z9",
@@ -6263,11 +6471,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X-1_Z10",
@@ -6293,11 +6502,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z-10",
@@ -6323,11 +6533,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z-9",
@@ -6353,11 +6564,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z-8",
@@ -6383,11 +6595,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z-7",
@@ -6413,11 +6626,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z-6",
@@ -6443,11 +6657,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z-5",
@@ -6473,11 +6688,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z-4",
@@ -6503,11 +6719,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z-3",
@@ -6533,11 +6750,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z-2",
@@ -6563,11 +6781,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z-1",
@@ -6593,11 +6812,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_Central",
@@ -6623,11 +6843,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z1",
@@ -6653,11 +6874,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z2",
@@ -6683,11 +6905,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z3",
@@ -6713,11 +6936,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z4",
@@ -6743,11 +6967,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z5",
@@ -6773,11 +6998,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z6",
@@ -6803,11 +7029,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z7",
@@ -6833,11 +7060,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z8",
@@ -6863,11 +7091,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z9",
@@ -6893,11 +7122,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X0_Z10",
@@ -6923,11 +7153,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z-10",
@@ -6953,11 +7184,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z-9",
@@ -6983,11 +7215,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z-8",
@@ -7013,11 +7246,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z-7",
@@ -7043,11 +7277,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z-6",
@@ -7073,11 +7308,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z-5",
@@ -7103,11 +7339,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z-4",
@@ -7133,11 +7370,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z-3",
@@ -7163,11 +7401,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z-2",
@@ -7193,11 +7432,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z-1",
@@ -7223,11 +7463,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z0",
@@ -7253,11 +7494,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z1",
@@ -7283,11 +7525,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z2",
@@ -7313,11 +7556,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z3",
@@ -7343,11 +7587,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z4",
@@ -7373,11 +7618,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z5",
@@ -7403,11 +7649,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z6",
@@ -7433,11 +7680,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z7",
@@ -7463,11 +7711,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z8",
@@ -7493,11 +7742,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z9",
@@ -7523,11 +7773,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X1_Z10",
@@ -7553,11 +7804,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z-10",
@@ -7583,11 +7835,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z-9",
@@ -7613,11 +7866,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z-8",
@@ -7643,11 +7897,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z-7",
@@ -7673,11 +7928,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z-6",
@@ -7703,11 +7959,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z-5",
@@ -7733,11 +7990,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z-4",
@@ -7763,11 +8021,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z-3",
@@ -7793,11 +8052,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z-2",
@@ -7823,11 +8083,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z-1",
@@ -7853,11 +8114,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z0",
@@ -7883,11 +8145,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z1",
@@ -7913,11 +8176,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z2",
@@ -7943,11 +8207,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z3",
@@ -7973,11 +8238,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z4",
@@ -8003,11 +8269,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z5",
@@ -8033,11 +8300,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z6",
@@ -8063,11 +8331,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z7",
@@ -8093,11 +8362,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z8",
@@ -8123,11 +8393,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z9",
@@ -8153,11 +8424,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X2_Z10",
@@ -8183,11 +8455,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z-10",
@@ -8213,11 +8486,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z-9",
@@ -8243,11 +8517,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z-8",
@@ -8273,11 +8548,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z-7",
@@ -8303,11 +8579,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z-6",
@@ -8333,11 +8610,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z-5",
@@ -8363,11 +8641,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z-4",
@@ -8393,11 +8672,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z-3",
@@ -8423,11 +8703,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z-2",
@@ -8453,11 +8734,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z-1",
@@ -8483,11 +8765,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z0",
@@ -8513,11 +8796,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z1",
@@ -8543,11 +8827,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z2",
@@ -8573,11 +8858,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z3",
@@ -8603,11 +8889,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z4",
@@ -8633,11 +8920,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z5",
@@ -8663,11 +8951,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z6",
@@ -8693,11 +8982,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z7",
@@ -8723,11 +9013,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z8",
@@ -8753,11 +9044,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z9",
@@ -8783,11 +9075,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X3_Z10",
@@ -8813,11 +9106,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z-10",
@@ -8843,11 +9137,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z-9",
@@ -8873,11 +9168,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z-8",
@@ -8903,11 +9199,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z-7",
@@ -8933,11 +9230,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z-6",
@@ -8963,11 +9261,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z-5",
@@ -8993,11 +9292,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z-4",
@@ -9023,11 +9323,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z-3",
@@ -9053,11 +9354,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z-2",
@@ -9083,11 +9385,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z-1",
@@ -9113,11 +9416,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z0",
@@ -9143,11 +9447,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z1",
@@ -9173,11 +9478,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z2",
@@ -9203,11 +9509,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z3",
@@ -9233,11 +9540,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z4",
@@ -9263,11 +9571,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z5",
@@ -9293,11 +9602,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z6",
@@ -9323,11 +9633,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z7",
@@ -9353,11 +9664,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z8",
@@ -9383,11 +9695,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z9",
@@ -9413,11 +9726,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X4_Z10",
@@ -9443,11 +9757,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z-10",
@@ -9473,11 +9788,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z-9",
@@ -9503,11 +9819,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z-8",
@@ -9533,11 +9850,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z-7",
@@ -9563,11 +9881,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z-6",
@@ -9593,11 +9912,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z-5",
@@ -9623,11 +9943,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z-4",
@@ -9653,11 +9974,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z-3",
@@ -9683,11 +10005,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z-2",
@@ -9713,11 +10036,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z-1",
@@ -9743,11 +10067,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z0",
@@ -9773,11 +10098,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z1",
@@ -9803,11 +10129,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z2",
@@ -9833,11 +10160,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z3",
@@ -9863,11 +10191,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z4",
@@ -9893,11 +10222,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z5",
@@ -9923,11 +10253,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z6",
@@ -9953,11 +10284,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z7",
@@ -9983,11 +10315,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z8",
@@ -10013,11 +10346,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z9",
@@ -10043,11 +10377,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X5_Z10",
@@ -10073,11 +10408,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z-10",
@@ -10103,11 +10439,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z-9",
@@ -10133,11 +10470,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z-8",
@@ -10163,11 +10501,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z-7",
@@ -10193,11 +10532,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z-6",
@@ -10223,11 +10563,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z-5",
@@ -10253,11 +10594,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z-4",
@@ -10283,11 +10625,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z-3",
@@ -10313,11 +10656,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z-2",
@@ -10343,11 +10687,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z-1",
@@ -10373,11 +10718,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z0",
@@ -10403,11 +10749,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z1",
@@ -10433,11 +10780,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z2",
@@ -10463,11 +10811,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z3",
@@ -10493,11 +10842,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z4",
@@ -10523,11 +10873,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z5",
@@ -10553,11 +10904,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z6",
@@ -10583,11 +10935,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z7",
@@ -10613,11 +10966,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z8",
@@ -10643,11 +10997,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z9",
@@ -10673,11 +11028,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X6_Z10",
@@ -10703,11 +11059,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z-10",
@@ -10733,11 +11090,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z-9",
@@ -10763,11 +11121,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z-8",
@@ -10793,11 +11152,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z-7",
@@ -10823,11 +11183,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z-6",
@@ -10853,11 +11214,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z-5",
@@ -10883,11 +11245,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z-4",
@@ -10913,11 +11276,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z-3",
@@ -10943,11 +11307,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z-2",
@@ -10973,11 +11338,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z-1",
@@ -11003,11 +11369,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z0",
@@ -11033,11 +11400,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z1",
@@ -11063,11 +11431,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z2",
@@ -11093,11 +11462,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z3",
@@ -11123,11 +11493,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z4",
@@ -11153,11 +11524,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z5",
@@ -11183,11 +11555,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z6",
@@ -11213,11 +11586,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z7",
@@ -11243,11 +11617,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z8",
@@ -11273,11 +11648,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z9",
@@ -11303,11 +11679,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X7_Z10",
@@ -11333,11 +11710,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z-10",
@@ -11363,11 +11741,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z-9",
@@ -11393,11 +11772,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z-8",
@@ -11423,11 +11803,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z-7",
@@ -11453,11 +11834,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z-6",
@@ -11483,11 +11865,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z-5",
@@ -11513,11 +11896,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z-4",
@@ -11543,11 +11927,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z-3",
@@ -11573,11 +11958,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z-2",
@@ -11603,11 +11989,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z-1",
@@ -11633,11 +12020,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z0",
@@ -11663,11 +12051,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z1",
@@ -11693,11 +12082,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z2",
@@ -11723,11 +12113,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z3",
@@ -11753,11 +12144,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z4",
@@ -11783,11 +12175,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z5",
@@ -11813,11 +12206,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z6",
@@ -11843,11 +12237,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z7",
@@ -11873,11 +12268,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z8",
@@ -11903,11 +12299,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z9",
@@ -11933,11 +12330,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X8_Z10",
@@ -11963,11 +12361,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z-10",
@@ -11993,11 +12392,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z-9",
@@ -12023,11 +12423,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z-8",
@@ -12053,11 +12454,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z-7",
@@ -12083,11 +12485,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z-6",
@@ -12113,11 +12516,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z-5",
@@ -12143,11 +12547,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z-4",
@@ -12173,11 +12578,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z-3",
@@ -12203,11 +12609,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z-2",
@@ -12233,11 +12640,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z-1",
@@ -12263,11 +12671,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z0",
@@ -12293,11 +12702,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z1",
@@ -12323,11 +12733,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z2",
@@ -12353,11 +12764,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z3",
@@ -12383,11 +12795,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z4",
@@ -12413,11 +12826,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z5",
@@ -12443,11 +12857,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z6",
@@ -12473,11 +12888,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z7",
@@ -12503,11 +12919,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z8",
@@ -12533,11 +12950,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z9",
@@ -12563,11 +12981,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X9_Z10",
@@ -12593,11 +13012,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z-10",
@@ -12623,11 +13043,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z-9",
@@ -12653,11 +13074,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z-8",
@@ -12683,11 +13105,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z-7",
@@ -12713,11 +13136,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z-6",
@@ -12743,11 +13167,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z-5",
@@ -12773,11 +13198,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z-4",
@@ -12803,11 +13229,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z-3",
@@ -12833,11 +13260,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z-2",
@@ -12863,11 +13291,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z-1",
@@ -12893,11 +13322,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z0",
@@ -12923,11 +13353,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z1",
@@ -12953,11 +13384,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z2",
@@ -12983,11 +13415,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z3",
@@ -13013,11 +13446,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z4",
@@ -13043,11 +13477,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z5",
@@ -13073,11 +13508,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z6",
@@ -13103,11 +13539,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z7",
@@ -13133,11 +13570,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z8",
@@ -13163,11 +13601,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z9",
@@ -13193,11 +13632,12 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     },
     {
         "name": "Chao_X10_Z10",
@@ -13223,10 +13663,11 @@
         "polygon": false,
         "scene_file": "chao.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external"
     }
 ]

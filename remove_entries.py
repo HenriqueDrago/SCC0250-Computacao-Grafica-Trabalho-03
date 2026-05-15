@@ -10,16 +10,18 @@ def remove_entries(file_paths, entries_to_remove):
         for obj in scene:
             for entry in entries_to_remove:
                 obj.pop(entry, None)
-                obj["illum_specs"] = {
-                    "ka": 0.0,
-                    "kd": 0.0,
-                    "ks": 0.0,
-                    "ns": 0.0
-                }
+            # obj["illum_specs"] = {
+            #     "ka": 0.2,
+            #     "kd": 1.0,
+            #     "ks": 0.0,
+            #     "ns": 84
+            # }
+            obj["illum_specs"]["kd"] = 1.0
         
+                
         with open(fp, "w", encoding="utf-8") as f:
             json.dump(scene, f, indent=4)
 
 
-remove_entries(["storage/scene.json", "storage/road.json", "storage/chao.json"], ["id_textura", "obj_id", "scene_id", "angulo_obj"])
+remove_entries(["storage/scene.json"], [])
     

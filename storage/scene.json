@@ -23,11 +23,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "external"
     },
     {
         "name": "Onibus",
@@ -57,11 +58,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "external"
     },
     {
         "name": "oven",
@@ -87,11 +89,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "internal"
     },
     {
         "name": "gnome",
@@ -117,11 +120,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "internal"
     },
     {
         "name": "vaso_de_planta",
@@ -150,11 +154,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "internal"
     },
     {
         "name": "pato",
@@ -182,11 +187,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "internal"
     },
     {
         "name": "stove",
@@ -212,11 +218,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "internal"
     },
     {
         "name": "spinner",
@@ -246,11 +253,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "internal"
     },
     {
         "name": "sofa",
@@ -278,11 +286,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "internal"
     },
     {
         "name": "cama",
@@ -310,11 +319,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "internal"
     },
     {
         "name": "mesa",
@@ -342,11 +352,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "internal"
     },
     {
         "name": "DeadTree01",
@@ -372,11 +383,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "external"
     },
     {
         "name": "DeadTree02",
@@ -402,11 +414,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "external"
     },
     {
         "name": "DeadTree03",
@@ -432,11 +445,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "external"
     },
     {
         "name": "bed_table",
@@ -464,11 +478,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "internal"
     },
     {
         "name": "clock",
@@ -494,11 +509,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "internal"
     },
     {
         "name": "kitchen_table",
@@ -526,11 +542,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "internal"
     },
     {
         "name": "carpet",
@@ -558,11 +575,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "internal"
     },
     {
         "name": "cottage",
@@ -590,11 +608,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 32
+        },
+        "ambient": "both"
     },
     {
         "name": "cacamba de lixo",
@@ -620,11 +639,12 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "external"
     },
     {
         "name": "Parede_Madeira",
@@ -653,10 +673,11 @@
         "polygon": false,
         "scene_file": "scene.json",
         "illum_specs": {
-            "ka": 0.0,
-            "kd": 0.0,
-            "ks": 0.0,
-            "ns": 0.0
-        }
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "internal"
     }
 ]
