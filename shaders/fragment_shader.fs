@@ -14,6 +14,7 @@ uniform float ks; // coeficiente de reflexao especular
 uniform float ns; // expoente de reflexao especular
 
 uniform vec3 viewPos; // define coordenadas com a posicao da camera/observador
+uniform vec3 colorAmbience; // define cor ambiente
 
 // parametros recebidos do vertex shader
 varying vec2 out_texture; // recebido do vertex shader
@@ -29,9 +30,13 @@ void main(){
     }
 
 	vec3 norm = normalize(out_normal);
+    if (!gl_FrontFacing) {
+        norm = -norm;
+    }
+    
     vec3 viewDir = normalize(viewPos - out_fragPos);
     
-    vec3 ambient = ka * vec3(1.0, 1.0, 1.0); 
+    vec3 ambient = ka * colorAmbience; 
     vec3 totalDiffuse = vec3(0.0);
     vec3 totalSpecular = vec3(0.0);
 

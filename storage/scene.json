@@ -21,7 +21,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -56,7 +56,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -87,7 +87,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -118,7 +118,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -152,7 +152,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -185,7 +185,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -216,7 +216,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -251,7 +251,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -284,7 +284,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -317,7 +317,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -350,7 +350,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -381,7 +381,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -412,7 +412,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -443,7 +443,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -476,7 +476,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -507,7 +507,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -540,7 +540,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -573,7 +573,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -584,7 +584,7 @@
     },
     {
         "name": "cottage",
-        "obj_file": "objetos/cottage/Cottage_perfeita.obj",
+        "obj_file": "objetos/cottage/Cottage_FREE.obj",
         "texture_file": null,
         "mtl_texture_overrides": {
             "piso_1": "objetos/cottage/FloorsMarble0020_2_S.jpg"
@@ -606,7 +606,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -637,7 +637,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,
@@ -671,7 +671,7 @@
         ],
         "visible": true,
         "polygon": false,
-        "scene_file": "scene.json",
+        "scene_file": "storage/scene.json",
         "illum_specs": {
             "ka": 0.3,
             "kd": 1.0,

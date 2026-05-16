@@ -1,10 +1,10 @@
 [
     {
-        "name": "Test_light",
+        "name": "external_light_test",
         "pos": [
-            0.0,
-            0.5,
-            -45.0
+            0.40,
+            0.47,
+            -38.95
         ],
         "color": [
             1.0,
@@ -17,16 +17,16 @@
     {
         "name": "internal_light_test",
         "pos": [
-            0.0,
-            -1.0,
+            0.88,
+            -0.38,
             -20.0
         ],
         "color": [
             1.0,
             1.0,
-            1.0
+            0.0
         ],
-        "active": false,
+        "active": true,
         "ambient": "internal"
     }
 ]
