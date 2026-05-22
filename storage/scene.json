@@ -28,7 +28,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "external"
+        "ambient": "external",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "Onibus",
@@ -63,7 +65,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "external"
+        "ambient": "external",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "oven",
@@ -94,7 +98,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "internal"
+        "ambient": "internal",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "gnome",
@@ -125,7 +131,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "internal"
+        "ambient": "internal",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "vaso_de_planta",
@@ -159,7 +167,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "internal"
+        "ambient": "internal",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "pato",
@@ -192,7 +202,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "internal"
+        "ambient": "internal",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "stove",
@@ -223,7 +235,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "internal"
+        "ambient": "internal",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "spinner",
@@ -258,7 +272,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "internal"
+        "ambient": "internal",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "sofa",
@@ -291,7 +307,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "internal"
+        "ambient": "internal",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "cama",
@@ -324,7 +342,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "internal"
+        "ambient": "internal",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "mesa",
@@ -357,7 +377,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "internal"
+        "ambient": "internal",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "DeadTree01",
@@ -388,7 +410,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "external"
+        "ambient": "external",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "DeadTree02",
@@ -419,7 +443,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "external"
+        "ambient": "external",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "DeadTree03",
@@ -450,7 +476,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "external"
+        "ambient": "external",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "bed_table",
@@ -483,7 +511,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "internal"
+        "ambient": "internal",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "clock",
@@ -514,7 +544,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "internal"
+        "ambient": "internal",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "kitchen_table",
@@ -547,7 +579,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "internal"
+        "ambient": "internal",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "carpet",
@@ -580,7 +614,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "internal"
+        "ambient": "internal",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "cottage",
@@ -613,7 +649,9 @@
             "ks": 0.2,
             "ns": 32
         },
-        "ambient": "both"
+        "ambient": "both",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "cacamba de lixo",
@@ -644,7 +682,9 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "external"
+        "ambient": "external",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     },
     {
         "name": "Parede_Madeira",
@@ -678,6 +718,107 @@
             "ks": 0.8,
             "ns": 32
         },
-        "ambient": "internal"
+        "ambient": "internal",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
+    },
+    {
+        "name": "Chao_Central",
+        "obj_file": "objetos/ground-desert/ground.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "translacao": [
+            0.0,
+            -2.5,
+            0.0
+        ],
+        "escala": [
+            100,
+            1,
+            100
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "visible": true,
+        "polygon": false,
+        "scene_file": "storage/scene.json",
+        "illum_specs": {
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 84
+        },
+        "ambient": "external",
+        "uv_mult_u": 100.0,
+        "uv_mult_v": 100.0
+    },
+    {
+        "name": "Estrada_Central",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "translacao": [
+            0.0,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            57.3
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "visible": true,
+        "polygon": false,
+        "scene_file": "storage/scene.json",
+        "illum_specs": {
+            "ka": 0.2,
+            "kd": 1.0,
+            "ks": 0.0,
+            "ns": 84
+        },
+        "ambient": "external",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 57.3
+    },
+    {
+        "name": "Cubo",
+        "obj_file": "objetos/cubo/cubo.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "translacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "escala": [
+            0.1,
+            0.1,
+            0.1
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "visible": true,
+        "polygon": false,
+        "scene_file": "storage/scene.json",
+        "illum_specs": {
+            "ka": 1.0,
+            "kd": 0.0,
+            "ks": 0.0,
+            "ns": 32
+        },
+        "ambient": "none",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
     }
 ]
