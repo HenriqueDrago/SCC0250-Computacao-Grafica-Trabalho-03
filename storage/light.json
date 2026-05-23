@@ -58,5 +58,50 @@
         ],
         "active": false,
         "ambient": "external"
+    },
+    {
+        "name": "candle_interior_light_1",
+        "pos": [
+            3.1300000000000345,
+            -0.4599999999999991,
+            -20.009999999999426
+        ],
+        "color": [
+            1.0,
+            0.55,
+            0.18
+        ],
+        "active": false,
+        "ambient": "internal"
+    },
+    {
+        "name": "candle_interior_light_2",
+        "pos": [
+            3.0300000000000367,
+            -0.5699999999999992,
+            -20.009999999999426
+        ],
+        "color": [
+            1.0,
+            0.55,
+            0.18
+        ],
+        "active": false,
+        "ambient": "internal"
+    },
+    {
+        "name": "candle_interior_light_3",
+        "pos": [
+            3.3100000000000307,
+            -0.5299999999999991,
+            -20.009999999999426
+        ],
+        "color": [
+            1.0,
+            0.55,
+            0.18
+        ],
+        "active": false,
+        "ambient": "internal"
     }
 ]
