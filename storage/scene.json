@@ -10,13 +10,13 @@
             -30.119999999999862
         ],
         "escala": [
-            0.0129674999999999,
-            0.013034124999999902,
-            0.013034124999999902
+            0.0129350812499999,
+            0.0130649228124999,
+            0.0130649228124999
         ],
         "rotacao": [
             -90,
-            0.0,
+            1.0,
             90.0
         ],
         "visible": true,
@@ -818,6 +818,39 @@
             "ns": 32
         },
         "ambient": "none",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
+    },
+    {
+        "name": "Vela",
+        "obj_file": "objetos/candle/candlestick.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "translacao": [
+            3.1300000000000345,
+            -1.119999999999999,
+            -20.009999999999426
+        ],
+        "escala": [
+            0.07699168689433596,
+            0.07900872963006837,
+            0.07900872963006837
+        ],
+        "rotacao": [
+            0.0,
+            28.0,
+            0.0
+        ],
+        "visible": true,
+        "polygon": false,
+        "scene_file": "storage/scene.json",
+        "illum_specs": {
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.8,
+            "ns": 32
+        },
+        "ambient": "internal",
         "uv_mult_u": 1.0,
         "uv_mult_v": 1.0
     }

@@ -2,8 +2,8 @@
     {
         "name": "external_light_test",
         "pos": [
-            0.4,
-            0.47,
+            -1.7900000000000016,
+            -0.43000000000000055,
             -38.95
         ],
         "color": [
@@ -11,7 +11,7 @@
             1.0,
             1.0
         ],
-        "active": true,
+        "active": false,
         "ambient": "external"
     },
     {
@@ -26,7 +26,37 @@
             1.0,
             0.0
         ],
-        "active": true,
+        "active": false,
         "ambient": "internal"
+    },
+    {
+        "name": "bus_headlight_left",
+        "pos": [
+            3.010000000000054,
+            -1.7000000000000002,
+            -33.45
+        ],
+        "color": [
+            1.0,
+            0.92,
+            0.72
+        ],
+        "active": false,
+        "ambient": "external"
+    },
+    {
+        "name": "bus_headlight_right",
+        "pos": [
+            3.010000000000054,
+            -1.7000000000000002,
+            -34.55
+        ],
+        "color": [
+            1.0,
+            0.92,
+            0.72
+        ],
+        "active": false,
+        "ambient": "external"
     }
 ]
