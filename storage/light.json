@@ -1,35 +1,5 @@
 [
     {
-        "name": "external_light_test",
-        "pos": [
-            -1.7900000000000016,
-            -0.43000000000000055,
-            -38.95
-        ],
-        "color": [
-            1.0,
-            1.0,
-            1.0
-        ],
-        "active": false,
-        "ambient": "external"
-    },
-    {
-        "name": "internal_light_test",
-        "pos": [
-            0.88,
-            -0.38,
-            -20.0
-        ],
-        "color": [
-            1.0,
-            1.0,
-            0.0
-        ],
-        "active": false,
-        "ambient": "internal"
-    },
-    {
         "name": "bus_headlight_left",
         "pos": [
             3.010000000000054,
