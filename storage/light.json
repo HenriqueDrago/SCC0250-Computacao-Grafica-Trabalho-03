@@ -41,7 +41,7 @@
             0.92,
             0.72
         ],
-        "active": false,
+        "active": true,
         "ambient": "external"
     },
     {
@@ -56,7 +56,7 @@
             0.92,
             0.72
         ],
-        "active": false,
+        "active": true,
         "ambient": "external"
     },
     {
@@ -100,6 +100,21 @@
             1.0,
             0.55,
             0.18
+        ],
+        "active": false,
+        "ambient": "internal"
+    },
+    {
+        "name": "gnome_interior_light",
+        "pos": [
+            5.7400000000000055,
+            -1.5700000000000007,
+            -23.5
+        ],
+        "color": [
+            0.75,
+            0.9,
+            1.0
         ],
         "active": false,
         "ambient": "internal"
