@@ -620,11 +620,9 @@
     },
     {
         "name": "cottage",
-        "obj_file": "objetos/cottage/Cottage_FREE.obj",
+        "obj_file": "objetos/cottage/cottage-no-floor.obj",
         "texture_file": null,
-        "mtl_texture_overrides": {
-            "piso_1": "objetos/cottage/FloorsMarble0020_2_S.jpg"
-        },
+        "mtl_texture_overrides": {},
         "translacao": [
             0.0,
             -2.5,
@@ -650,6 +648,39 @@
             "ns": 32
         },
         "ambient": "both",
+        "uv_mult_u": 1.0,
+        "uv_mult_v": 1.0
+    },
+    {
+        "name": "cottage-floor",
+        "obj_file": "objetos/cottage/cottage-floor.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "translacao": [
+            0.0,
+            -2.5,
+            -20.0
+        ],
+        "escala": [
+            1.1,
+            1.1,
+            1.1
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "visible": true,
+        "polygon": false,
+        "scene_file": "storage/scene.json",
+        "illum_specs": {
+            "ka": 0.3,
+            "kd": 1.0,
+            "ks": 0.2,
+            "ns": 32
+        },
+        "ambient": "internal",
         "uv_mult_u": 1.0,
         "uv_mult_v": 1.0
     },

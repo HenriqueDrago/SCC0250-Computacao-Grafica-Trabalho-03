@@ -22,6 +22,9 @@ varying vec3 out_normal; // recebido do vertex shader
 varying vec3 out_fragPos; // recebido do vertex shader
 uniform sampler2D samplerTexture;
 
+uniform int lightAmbient[MAX_LIGHTS];
+uniform int isBoth;
+
 void main(){
 	// Pega a textura e descarta o pixel se for transparente
 	vec4 textureColor = texture2D(samplerTexture, out_texture);
@@ -43,15 +46,22 @@ void main(){
 	for(int i = 0; i < MAX_LIGHTS; i++) {
         if(i >= numLights) break; 
 
+        if(isBoth == 1 && lightAmbient[i] == 1 && gl_FrontFacing) {
+            continue; // Luz interna é bloqueada se a câmera estiver vendo a face pela frente
+        }
+
+        float dist = length(lightPositions[i] - out_fragPos);
+        float att = 1.0 / (dist * dist + 1.0);
+
         // --- Diffuse ---
         vec3 lightDir = normalize(lightPositions[i] - out_fragPos);
         float diff = max(dot(norm, lightDir), 0.0);
-        totalDiffuse += kd * diff * lightColors[i];
+        totalDiffuse += kd * diff * lightColors[i] * att;
 
         // --- Specular ---
         vec3 reflectDir = normalize(reflect(-lightDir, norm));
         float spec = pow(max(dot(viewDir, reflectDir), 0.0), ns);
-        totalSpecular += ks * spec * lightColors[i];
+        totalSpecular += ks * spec * lightColors[i] * att;
     }
 
     vec3 finalLighting = ambient + totalDiffuse + totalSpecular;
