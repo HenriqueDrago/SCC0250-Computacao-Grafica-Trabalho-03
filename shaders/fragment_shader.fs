@@ -5,6 +5,10 @@
 // Use two arrays for the positions and colors
 uniform vec3 lightPositions[MAX_LIGHTS];
 uniform vec3 lightColors[MAX_LIGHTS];
+uniform vec3 lightDirections[MAX_LIGHTS];
+uniform float lightCutOffs[MAX_LIGHTS];
+uniform float lightIntensities[MAX_LIGHTS];
+
 uniform int numLights;
 
 // parametros da iluminacao
@@ -28,7 +32,7 @@ uniform int isBoth;
 void main(){
 	// Pega a textura e descarta o pixel se for transparente
 	vec4 textureColor = texture2D(samplerTexture, out_texture);
-	if(textureColor.a < 0.01) {
+	if(textureColor.a < 1.0) {
         discard;
     }
 
@@ -49,19 +53,33 @@ void main(){
         if(isBoth == 1 && lightAmbient[i] == 1 && gl_FrontFacing) {
             continue; // Luz interna é bloqueada se a câmera estiver vendo a face pela frente
         }
+        if(isBoth == 1 && lightAmbient[i] == 0 && !gl_FrontFacing) {
+            continue; 
+        }
 
         float dist = length(lightPositions[i] - out_fragPos);
         float att = 1.0 / (dist * dist + 1.0);
 
-        // --- Diffuse ---
+        // Direction from the fragment to the light
         vec3 lightDir = normalize(lightPositions[i] - out_fragPos);
+
+        float intensity = lightIntensities[i];
+        // lightDirections is the direction the light fixture is pointing
+        float theta = dot(lightDir, normalize(-lightDirections[i]));
+        
+        // If it's a point light, lightCutOffs[i] will be -1.1, so this is never true
+        if(theta < lightCutOffs[i]) {
+            intensity = 0.0;
+        }
+
+        // --- Diffuse ---
         float diff = max(dot(norm, lightDir), 0.0);
-        totalDiffuse += kd * diff * lightColors[i] * att;
+        totalDiffuse += kd * diff * lightColors[i] * (att * intensity);
 
         // --- Specular ---
         vec3 reflectDir = normalize(reflect(-lightDir, norm));
         float spec = pow(max(dot(viewDir, reflectDir), 0.0), ns);
-        totalSpecular += ks * spec * lightColors[i] * att;
+        totalSpecular += ks * spec * lightColors[i] * (att * intensity);
     }
 
     vec3 finalLighting = ambient + totalDiffuse + totalSpecular;

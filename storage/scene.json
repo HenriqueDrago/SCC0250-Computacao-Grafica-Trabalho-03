@@ -16,7 +16,7 @@
         ],
         "rotacao": [
             -90,
-            1.0,
+            0.0,
             90.0
         ],
         "visible": true,
@@ -42,7 +42,7 @@
             "glass": "objetos/onibus/textures/glass_op.png"
         },
         "translacao": [
-            7.121396259429998,
+            42.264887608676915,
             -2.5,
             -34.0
         ],

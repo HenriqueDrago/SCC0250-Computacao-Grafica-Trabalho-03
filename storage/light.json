@@ -2,9 +2,9 @@
     {
         "name": "bus_headlight_left",
         "pos": [
-            3.010000000000054,
-            -1.7000000000000002,
-            -33.45
+            38.124887608676914,
+            -1.7,
+            -33.35
         ],
         "color": [
             1.0,
@@ -12,14 +12,21 @@
             0.72
         ],
         "active": true,
-        "ambient": "external"
+        "ambient": "external",
+        "direction": [
+            -1.0,
+            0.0,
+            0.0
+        ],
+        "cutoff": 0.5,
+        "intensity": 12.0
     },
     {
         "name": "bus_headlight_right",
         "pos": [
-            3.010000000000054,
-            -1.7000000000000002,
-            -34.55
+            38.124887608676914,
+            -1.7,
+            -34.65
         ],
         "color": [
             1.0,
@@ -27,12 +34,41 @@
             0.72
         ],
         "active": true,
-        "ambient": "external"
+        "ambient": "external",
+        "direction": [
+            -1.0,
+            0.0,
+            0.0
+        ],
+        "cutoff": 0.5,
+        "intensity": 12.0
     },
     {
         "name": "candle_interior_light_1",
         "pos": [
-            3.1300000000000345,
+            2.9400000000000386,
+            -0.389999999999999,
+            -20.009999999999426
+        ],
+        "color": [
+            1.0,
+            0.55,
+            0.18
+        ],
+        "active": false,
+        "ambient": "internal",
+        "direction": [
+            0.0,
+            -1.0,
+            0.0
+        ],
+        "cutoff": -1.1,
+        "intensity": 1.0
+    },
+    {
+        "name": "candle_interior_light_2",
+        "pos": [
+            2.7600000000000424,
             -0.4599999999999991,
             -20.009999999999426
         ],
@@ -42,28 +78,20 @@
             0.18
         ],
         "active": false,
-        "ambient": "internal"
-    },
-    {
-        "name": "candle_interior_light_2",
-        "pos": [
-            3.0300000000000367,
-            -0.5699999999999992,
-            -20.009999999999426
+        "ambient": "internal",
+        "direction": [
+            0.0,
+            -1.0,
+            0.0
         ],
-        "color": [
-            1.0,
-            0.55,
-            0.18
-        ],
-        "active": false,
-        "ambient": "internal"
+        "cutoff": -1.1,
+        "intensity": 1.0
     },
     {
         "name": "candle_interior_light_3",
         "pos": [
-            3.3100000000000307,
-            -0.5299999999999991,
+            3.1200000000000347,
+            -0.4599999999999991,
             -20.009999999999426
         ],
         "color": [
@@ -72,7 +100,14 @@
             0.18
         ],
         "active": false,
-        "ambient": "internal"
+        "ambient": "internal",
+        "direction": [
+            0.0,
+            -1.0,
+            0.0
+        ],
+        "cutoff": -1.1,
+        "intensity": 1.0
     },
     {
         "name": "gnome_interior_light",
@@ -87,6 +122,13 @@
             1.0
         ],
         "active": false,
-        "ambient": "internal"
+        "ambient": "internal",
+        "direction": [
+            0.0,
+            -1.0,
+            0.0
+        ],
+        "cutoff": -1.1,
+        "intensity": 1.0
     }
 ]
