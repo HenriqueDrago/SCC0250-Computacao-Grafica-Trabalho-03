@@ -27,7 +27,7 @@ Estes comandos controlam o estado da janela, modos globais de renderização e a
 * **N**: Move a câmera para **trás**.
 * **B**: Move a câmera para a **esquerda**.
 * **M**: Move a câmera para a **direita**.
-* **Shift (Segurar)**: Reduz a velocidade base de movimento da câmera (de 40 para 15) para ajustes finos.
+* **Shift (Segurar)**: Reduz a velocidade base de movimento da câmera para ajustes finos.
 * **Esc**: Fecha a janela do programa.
 * **F**: Alterna entre o modo tela cheia (maximizado) e o modo janela padrão.
 * **P**: Alterna o Modo Polígono entre preenchido e malha de linhas (**Wireframe**).
@@ -73,9 +73,7 @@ Ativado alternando com **Shift + L** dentro do Modo Livre. Permite alterar a pos
 * **Seta para Esquerda / Seta para Direita**: Translada a luz selecionada ao longo do **Eixo X**.
 * **Seta para Baixo / Seta para Cima**: Translada a luz selecionada ao longo do **Eixo Y**.
 * **Z / X**: Translada a luz selecionada ao longo do **Eixo Z**.
-* **1**: Liga/desliga os faróis do ônibus.
-* **2**: Liga/desliga a luz interna 1 (Vela).
-* **3**: Liga/desliga a luz interna 2 (Gnomo).
+* **A**: Liga/desliga a luz selecionada.
 
 #### B. Submodo de Edição de Objetos (`lightMode = False`)
 
